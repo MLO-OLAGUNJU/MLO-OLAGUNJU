@@ -11,7 +11,7 @@ I'm open to collaboration on projects related to Javascript and MERNstack. If yo
 
 ## 📫 How to Reach Me
 - 📧 Email me at: oladeleemmanuelolagunju@gmail.com
-- 🐦 Connect with me on Twitter: mlo_olagunju
+- 🐦 Connect with me on Twitter: [mlo_olagunju](https://twitter.com/mlo_olagunju)
 - 💼 Check out my LinkedIn: (https://www.linkedin.com/in/mlo-olagunju/)
 
 Feel free to explore my repositories and don't hesitate to leave feedback or open issues. Looking forward to connecting with like-minded individuals and building awesome things together!
