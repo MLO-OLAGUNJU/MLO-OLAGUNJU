@@ -1,7 +1,7 @@
 # 👋 Hi, I’m OLAGUNJU OLADELE EMMANUEL, but you can call me MLO-OLAGUNJU!
 
 ## 👀 About Me
-I'm passionate about coding. Currently, I'm a MernStack FullStack and AI Enthusiast.
+I'm passionate about coding. Currently, I'm a MernStack FullStack Developer and an AI Enthusiast.
 
 ## 🌱 I’m Currently Learning
 I'm on a journey to master the MernStack and AI Learning. Always excited to explore new horizons in the world of tech!
