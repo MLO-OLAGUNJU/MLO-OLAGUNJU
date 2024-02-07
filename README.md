@@ -46,10 +46,10 @@ I love coding and creating innovative solutions that make a difference. My exper
 
 ## 🚀 Stats
 <!-- Add your GitHub stats using GitHub Readme Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MLO-OLAGUNJU&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
 <!-- Add your GitHub achievements using GitHub Readme Streak Stats -->
-![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MLO-OLAGUNJU&theme=radical)
 
 <!-- Feel free to add more sections based on your preferences -->
