@@ -3,9 +3,9 @@
 
 # Hi there and Welcome!👋, I'm OLAGUNJU OLADELE EMMANUEL 
 
-I'm a passionate and creative Javascript MERNStack Fullstack Developer from Nigeria.
-
 ## 🚀 About Me
+I am a passionate JavaScript software developer with a strong interest in building innovative and impactful solutions. With several years of experience in web development, I specialize in frontend and backend technologies including React.js, Node.js, and MongoDB. I am dedicated to continuous learning and staying updated with the latest trends in technology. Outside of coding, I enjoy gaming, reading, napping😜, and exploring new cuisines.
+
 <!-- Add a short paragraph about yourself -->
 
 
