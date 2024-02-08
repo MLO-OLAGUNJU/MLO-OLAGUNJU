@@ -9,6 +9,11 @@ I'm a passionate and creative Javascript MERNStack Fullstack Developer from Nige
 <!-- Add a short paragraph about yourself -->
 I love coding and creating innovative solutions that make a difference. My expertise lies in Reactjs, Nodejs, Express-js, MongoDB [MERNStack Fullstack], and many more Javascript Frameworks.
 
+### About Me
+
+I'm a passionate [JavaScript Developer] from [Lagos, Nigeria]. With a background in [Software engineering and Web development], I'm deeply interested in [both Frontend and Backend Projects with JavaScript]. My journey in [JavaScript] has allowed me to [Achievements or Experiences]. When I'm not coding, you can find me [reading, napping😜]. I believe in the power of technology to [Your Belief or Mission]. Let's connect and build something amazing together!
+
+
 ## 🛠️ Skills & Tools
 <!-- Add your skills and tools as badges/icons -->
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -27,22 +32,23 @@ I love coding and creating innovative solutions that make a difference. My exper
 
 ## 🌱 I'm Currently Learning
 <!-- Add the technologies or skills you're currently learning -->
-- [Technology/Skill 1]
-- [Technology/Skill 2]
-- [Technology/Skill 3]
+- [React Native]
+- [Angular js]
+- [Vue js]
 
+<!--
 ## 👨‍💻 My Projects
-<!-- Add links to your GitHub projects -->
+<!-- Add links to your GitHub projects
 - [Project 1](link-to-project-1)
 - [Project 2](link-to-project-2)
-- [Project 3](link-to-project-3)
+- [Project 3](link-to-project-3)-->
 
 ## 📫 How to Reach Me
 <!-- Add your contact information and social media links -->
-- Email: [Your Email Address](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
-- Website: [Your Website](https://www.yourwebsite.com)
+- Email: [oladeleemmanuelolagunju@gmail.com](mailto:oladeleemmanuelolagunju@gmail.com)
+- LinkedIn: [Olagunju (MLO) Oladele Emmanuel](https://www.linkedin.com/in/mlo-olagunju/)
+- Twitter: [Olagunju (MLO) Oladele Emmanuel](https://twitter.com/mlo_olagunju)
+<!-- Website: [Your Website](https://www.yourwebsite.com)-->
 
 ## 🚀 Stats
 <!-- Add your GitHub stats using GitHub Readme Stats -->
