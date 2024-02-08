@@ -1,17 +1,13 @@
 <!-- Your Banner Here -->
 <!-- You can use an image, GIF, or a combination of text and images for your banner -->
 
-# Hi there and Welcome! 👋, I'm OLAGUNJU OLADELE EMMANUEL 
+# Hi there and Welcome!👋, I'm OLAGUNJU OLADELE EMMANUEL 
 
 I'm a passionate and creative Javascript MERNStack Fullstack Developer from Nigeria.
 
 ## 🚀 About Me
 <!-- Add a short paragraph about yourself -->
-I love coding and creating innovative solutions that make a difference. My expertise lies in Reactjs, Nodejs, Express-js, MongoDB [MERNStack Fullstack], and many more Javascript Frameworks.
 
-### About Me
-
-I'm a passionate [JavaScript Developer] from [Lagos, Nigeria]. With a background in [Software engineering and Web development], I'm deeply interested in [both Frontend and Backend Projects with JavaScript]. My journey in [JavaScript] has allowed me to [Achievements or Experiences]. When I'm not coding, you can find me [reading, napping😜]. I believe in the power of technology to [Your Belief or Mission]. Let's connect and build something amazing together!
 
 
 ## 🛠️ Skills & Tools
@@ -27,14 +23,20 @@ I'm a passionate [JavaScript Developer] from [Lagos, Nigeria]. With a background
 ![React Redux](https://img.shields.io/badge/-React_Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Restful APIs](https://img.shields.io/badge/-Restful%20APIs-336791?style=flat&logo=api&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 <!-- Add more badges for your other skills -->
 
 ## 🌱 I'm Currently Learning
 <!-- Add the technologies or skills you're currently learning -->
-- [React Native]
-- [Angular js]
-- [Vue js]
+- React Native: [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
+- AngularJS: [![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angularjs.org/)
+- Vue.js: [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 
 <!--
 ## 👨‍💻 My Projects
@@ -45,9 +47,10 @@ I'm a passionate [JavaScript Developer] from [Lagos, Nigeria]. With a background
 
 ## 📫 How to Reach Me
 <!-- Add your contact information and social media links -->
-- Email: [oladeleemmanuelolagunju@gmail.com](mailto:oladeleemmanuelolagunju@gmail.com)
-- LinkedIn: [Olagunju (MLO) Oladele Emmanuel](https://www.linkedin.com/in/mlo-olagunju/)
-- Twitter: [Olagunju (MLO) Oladele Emmanuel](https://twitter.com/mlo_olagunju)
+- Email: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oladeleemmanuelolagunju@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlo-olagunju/)
+- Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mlo_olagunju)
+
 <!-- Website: [Your Website](https://www.yourwebsite.com)-->
 
 ## 🚀 Stats
