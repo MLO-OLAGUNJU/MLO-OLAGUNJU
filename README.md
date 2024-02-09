@@ -28,6 +28,9 @@ I am a passionate JavaScript software developer with a strong interest in buildi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![Context API](https://img.shields.io/badge/-Context%20API-000000?style=flat&logo=react&logoColor=white)
+
 
 
 <!-- Add more badges for your other skills -->
