@@ -59,9 +59,7 @@ I am a passionate JavaScript software developer with a strong interest in buildi
 <!-- Add your GitHub stats using GitHub Readme Stats -->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MLO-OLAGUNJU&show_icons=true&theme=radical)
 
-## 💻<> Most Languages Used 
-<!-- Add Your Most Languages Used using GitHub Readme Stats -->
-![Your Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=MLO-OLAGUNJU&show_icons=true&locale=en&layout=compact)
+## ![Your Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=MLO-OLAGUNJU&show_icons=true&locale=en&layout=compact)
 
 ## 🏆 Achievements
 <!-- Add your GitHub achievements using GitHub Readme Streak Stats -->
