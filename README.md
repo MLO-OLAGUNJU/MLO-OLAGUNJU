@@ -12,23 +12,23 @@ I am a passionate JavaScript software developer with a strong interest in buildi
 
 ## 🛠️ Skills & Tools
 <!-- Add your skills and tools as badges/icons -->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React Redux](https://img.shields.io/badge/-React_Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Restful APIs](https://img.shields.io/badge/-Restful%20APIs-336791?style=flat&logo=api&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-![Context API](https://img.shields.io/badge/-Context%20API-000000?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/ExpressJS-informational?style=flat&color=informational&logo=express)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&color=informational&logo=mongodb)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
+![](https://img.shields.io/badge/NextJS-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/CSS-informational?style=flat&color=informational&logo=css3)
+![](https://img.shields.io/badge/HTML-informational?style=flat&color=informational&logo=html5)
+![](https://img.shields.io/badge/Prisma-informational?style=flat&color=informational&logo=prisma)
+![](https://img.shields.io/badge/MySql-informational?style=flat&color=black&logo=mysql)
+![](https://img.shields.io/badge/GIT-informational?style=flat&color=informational&logo=git)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&color=informational&logo=github)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&color=informational&logo=firebase)
+![](https://img.shields.io/badge/Tailwind-CSS-informational?style=flat&color=informational&logo=tailwindcss)
+
+
 
 
 
