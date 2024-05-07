@@ -4,7 +4,7 @@
 # Hi there and Welcome!👋, I'm OLAGUNJU OLADELE EMMANUEL 
 
 ## 🚀 About Me
-I am a passionate JavaScript software developer with a strong interest in building innovative and impactful solutions. With several years of experience in web development, I specialize in frontend and backend technologies including React.js, Node.js, and MongoDB. I am dedicated to continuous learning and staying updated with the latest trends in technology. Outside of coding, I enjoy gaming, reading, napping😜, and exploring new cuisines.
+Passionate MERN developer constantly exploring new frameworks and tools to push my skills. Check out my repositories for a glimpse into my expertise with React, Node.js, Express, MongoDB and passion for building high-performance, user-centric web apps. I'm always eager to collaborate, receive feedback, and be part of exciting dev community projects. Let's connect!
 
 <!-- Add a short paragraph about yourself -->
 
