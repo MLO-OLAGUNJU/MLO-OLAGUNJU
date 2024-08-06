@@ -57,6 +57,4 @@ Hey there! I'm Emmanuel, a MERN developer who loves exploring new tech and frame
 <!-- Add your GitHub achievements using GitHub Readme Streak Stats -->
 ![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MLO-OLAGUNJU&theme=radical)
 
----
 
-Let me know if you need any more changes or additions!
