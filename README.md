@@ -44,17 +44,17 @@ Hey there! I'm Emmanuel, a MERN developer who loves exploring new tech and frame
 - Email: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oladeleemmanuelolagunju@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlo-olagunju/)
 - Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mlo_olagunju)
+<p align="left"> <a href="https://twitter.com/mlo_olagunju" target="blank"><img src="https://img.shields.io/twitter/follow/mlo_olagunju?logo=twitter&style=for-the-badge" alt="mlo_olagunju" /></a> </p>
+
 
 ## 🚀 Stats
 <!-- Add your GitHub stats using GitHub Readme Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MLO-OLAGUNJU&show_icons=true&theme=radical)
-
-## 🚀 Most Used Languages
-<!-- Add your most used languages using GitHub Readme Stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLO-OLAGUNJU&layout=compact&theme=radical)](https://github.com/MLO-OLAGUNJU)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MLO-OLAGUNJU&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLO-OLAGUNJU&layout=compact&theme=radical)](https://github.com/MLO-OLAGUNJU)
 
 ## 🏆 Achievements
 <!-- Add your GitHub achievements using GitHub Readme Streak Stats -->
 ![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MLO-OLAGUNJU&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MLO-OLAGUNJU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
