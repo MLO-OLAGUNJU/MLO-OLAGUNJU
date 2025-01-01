@@ -25,7 +25,7 @@ Hey there! I'm Emmanuel, a MERN developer who loves exploring new tech and frame
 ![](https://img.shields.io/badge/Tailwind-CSS-informational?style=flat&color=informational&logo=tailwindcss)
 
 ## 🌱 I'm Currently Learning
-<!-- Add the technologies or skills you're currently learning -->
+<!-- Add the the hhdsddf technologies or skills you're currently learning -->
 - React Native: [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 - AngularJS: [![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angularjs.org/)
 - Vue.js: [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
