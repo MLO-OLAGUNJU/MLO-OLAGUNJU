@@ -1,4 +1,4 @@
-<!-- Your Banner Here imaga -->
+<!-- Your Banner Here -->
 <!-- You can use an image, GIF, or a combination of text and images for your banner -->
 
 # Hi there and Welcome!👋, I'm OLAGUNJU OLADELE EMMANUEL 
