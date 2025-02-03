@@ -39,7 +39,7 @@ I'm a **Cloud Engineer (AWS) & Full-Stack Software Developer** passionate about 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLO-OLAGUNJU&layout=compact&theme=radical)](https://github.com/MLO-OLAGUNJU)  
 
 ## 🏆 Achievements  
-![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MLO-OLAGUNJU&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MLO-OLAGUNJU&theme=radical)
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MLO-OLAGUNJU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ## 📫 Connect With Me  
