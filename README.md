@@ -1,59 +1,50 @@
+# 🚀 Welcome! I'm Olagunju Oladele Emmanuel (MLO) 👋  
 
+## 💡 About Me  
+I'm a **Cloud Engineer (AWS) & Full-Stack Software Developer** passionate about building **scalable, high-performance applications** for web, mobile, and cloud. With expertise in **MERN, Next.js, React Native, and DevOps**, I create solutions that are fast, reliable, and user-centric.  
 
-# Hi there and Welcome!👋, I'm OLAGUNJU OLADELE EMMANUEL 
+💡 **What I Do:**  
+- 🔹 **Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform, CI/CD Pipelines  
+- 🔹 **Full-Stack Engineering:** MERN Stack, Next.js, React Native, TypeScript  
+- 🔹 **Software Performance & Optimization:** Fast, scalable, and efficient applications  
+- 🔹 **Mentorship & Tech Leadership:** Training developers and leading impactful projects  
 
-## 🚀 About Me
-Hey there! I'm Emmanuel, a MERN developer who loves exploring new tech and frameworks. Check out my repos to see my work with React, Node.js, Express, MongoDB, and more. I'm all about creating high-performance, user-centric web apps. Always excited to collaborate, get feedback, and join cool dev projects. Let's connect and make some tech magic happen!
+## 🛠️ Tech Stack & Tools  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript)  
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react)  
+![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js)  
+![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js)  
+![Express.js](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express)  
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb)  
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql)  
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws)  
+![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes)  
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github)  
 
-## 🛠️ Skills & Tools
-<!-- Add your skills and tools as badges/icons -->
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/ExpressJS-informational?style=flat&color=informational&logo=express)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&color=informational&logo=mongodb)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
-![](https://img.shields.io/badge/NextJS-informational?style=flat&color=informational&logo=next.js)
-![](https://img.shields.io/badge/CSS-informational?style=flat&color=informational&logo=css3)
-![](https://img.shields.io/badge/HTML-informational?style=flat&color=informational&logo=html5)
-![](https://img.shields.io/badge/Prisma-informational?style=flat&color=informational&logo=prisma)
-![](https://img.shields.io/badge/MySql-informational?style=flat&color=black&logo=mysql)
-![](https://img.shields.io/badge/GIT-informational?style=flat&color=informational&logo=git)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&color=informational&logo=github)
-![](https://img.shields.io/badge/Firebase-informational?style=flat&color=informational&logo=firebase)
-![](https://img.shields.io/badge/Tailwind-CSS-informational?style=flat&color=informational&logo=tailwindcss)
+## 🌱 Currently Learning  
+- **React Native** 📱 → Mastering mobile development  
+- **Advanced Cloud & DevOps** ☁️ → Deepening AWS, Docker & Kubernetes skills  
 
-## 🌱 I'm Currently Learning
-<!-- Add the the technologies or skills you're currently learning -->
-- React Native: [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
-- AngularJS: [![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angularjs.org/)
-- Vue.js: [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
-- Python: ![](https://img.shields.io/badge/Python-informational?style=flat&color=informational&logo=python&logoColor=white)
+## 🔥 Featured Projects  
+- **🚀 Learning Management System (LMS)** → Built a full-stack LMS for a bootcamp, enhancing education.  
+- **🏥 Blood Bank Platform** → Contributed to a team project improving blood donation efficiency.  
+- **💬 Toodbe Chat App** → A real-time chat app demonstrating WebSockets & instant messaging.  
+- **🎥 Netflix Clone** → A full replica of Netflix with API integration and authentication.  
 
-## 🌐 Cloud & DevOps
-<!-- Add your cloud and DevOps expertise as badges/icons -->
-![](https://img.shields.io/badge/AWS-informational?style=flat&color=informational&logo=amazonaws)
-![](https://img.shields.io/badge/Azure-informational?style=flat&color=informational&logo=microsoftazure)
-![](https://img.shields.io/badge/Docker-informational?style=flat&color=informational&logo=docker)
-![](https://img.shields.io/badge/Kubernetes-informational?style=flat&color=informational&logo=kubernetes)
-![](https://img.shields.io/badge/Terraform-informational?style=flat&color=informational&logo=terraform)
+## 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MLO-OLAGUNJU&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLO-OLAGUNJU&layout=compact&theme=radical)](https://github.com/MLO-OLAGUNJU)  
 
-## 📫 How to Reach Me
-<!-- Add your contact information and social media links -->
-- Email: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oladeleemmanuelolagunju@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlo-olagunju/)
-- Twitter: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mlo_olagunju)
-<p align="left"> <a href="https://twitter.com/mlo_olagunju" target="blank"><img src="https://img.shields.io/twitter/follow/mlo_olagunju?logo=twitter&style=for-the-badge" alt="mlo_olagunju" /></a> </p>
-
-
-## 🚀 Stats
-<!-- Add your GitHub stats using GitHub Readme Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MLO-OLAGUNJU&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLO-OLAGUNJU&layout=compact&theme=radical)](https://github.com/MLO-OLAGUNJU)
-
-## 🏆 Achievements
-<!-- Add your GitHub achievements using GitHub Readme Streak Stats -->
+## 🏆 Achievements  
 ![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MLO-OLAGUNJU&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MLO-OLAGUNJU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MLO-OLAGUNJU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
+## 📫 Connect With Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oladeleemmanuelolagunju@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlo-olagunju/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mlo_olagunju)  
 
-
+---
