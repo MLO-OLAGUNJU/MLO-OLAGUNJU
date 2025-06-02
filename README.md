@@ -57,5 +57,6 @@ Hi there! I'm Oladele Emmanuel (aka **MLO-OLAGUNJU**) — a full-stack web devel
 
 ---
 
-> “Code is poetry. Cloud is the canvas. 🚀”  
+> #MLOinTech  
+> "Great code isn’t written — it’s summoned." 🧙‍♂️
 > — MLO-OLAGUNJU
